@@ -52,7 +52,7 @@
 % Available options: circle|rectangle,edge/noedge,left/right
 % \photo{./examples/profile.png}
 \name{Mario}{Avolio}
-\position{Computer \& Robot Vision{\enskip\cdotp\enskip}Natural Language Processing}
+\position{AI \& Cloud Engineer{\enskip\cdotp\enskip}Generative \& Agentic AI}
 % \address{235, World Cup buk-ro, Mapo-gu, Seoul, 03936, Republic of Korea}
 
 \mobile{(+39) 3791944042}
@@ -79,6 +79,21 @@
 
 
 %-------------------------------------------------------------------------------
+% Narrow the skills value column so longer skill labels and values stay within
+% the text block instead of bleeding into the right margin.
+\renewenvironment{cvskills}{%
+  \vspace{\acvSectionContentTopSkip}
+  \vspace{-2.0mm}
+  \begin{center}
+    \setlength\tabcolsep{1ex}
+    \setlength{\extrarowheight}{0pt}
+    \begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} r L{\textwidth * \real{0.78}}}
+}{%
+    \end{tabular*}
+  \end{center}
+}
+
+%-------------------------------------------------------------------------------
 \begin{document}
 
 % Print the header with above personal information
@@ -97,15 +112,16 @@
 %	CV/RESUME CONTENT
 %	Each section is imported separately, open each file in turn to modify content
 %-------------------------------------------------------------------------------
-\input{marioavolio/education.tex}
-% \input{marioavolio/experience.tex}
+\input{marioavolio/summary.tex}
+\input{marioavolio/experience.tex}
 \input{marioavolio/skills.tex}
+\input{marioavolio/education.tex}
 % \input{cv/extracurricular.tex}
 % \input{cv/certificates.tex}
 % \input{cv/presentation.tex}
 \input{marioavolio/writing.tex}
 % \input{cv/committees.tex}
-\input{marioavolio/honors.tex}
+% \input{marioavolio/honors.tex}
 
 
 %-------------------------------------------------------------------------------
