@@ -12,8 +12,7 @@ This is a personalized CV created using the **Awesome CV** LaTeX template. You c
 
 ## 🔗 Connect With Me
 
-- **Portfolio**: [Visit my portfolio](https://marioavolio.com)
-- **Website**: [marioavolio.com](https://marioavolio.com)
+- **Portfolio / Website**: [marioavolio.netlify.app](https://marioavolio.netlify.app/)
 - **GitHub**: [@MarioAvolio](https://github.com/MarioAvolio)
 
 ## 🛠️ About This Template
@@ -26,4 +25,4 @@ Licensed under the LaTeX Project Public License v1.3c (LPPL). See the [LICENCE](
 
 ---
 
-**Last Updated**: June 2026
+**Last Updated**: June 13, 2026
