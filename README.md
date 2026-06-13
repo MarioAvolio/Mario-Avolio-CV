@@ -1,28 +1,23 @@
 # Mario Avolio - Curriculum Vitae
 
-Welcome to my CV repository! This repository contains my professional curriculum vitae and resume documents.
+Benvenuto nel repository del mio Curriculum Vitae (CV). Questo repository contiene il mio CV in formato PDF e i sorgenti LaTeX usati per generarlo.
 
-## 📄 About
+Sito personale
 
-This is a personalized CV created using the **Awesome CV** LaTeX template. You can find my complete professional profile, experience, skills, and achievements in the PDF document included in this repository.
+- Sito web: https://marioavolio.netlify.app/
 
-## 📋 Documents
+Repository e risorse
 
-- **CV (PDF)**: [Mario_Avolio_CV.pdf](./Mario_Avolio_CV.pdf) - Download my full curriculum vitae
+- GitHub: https://github.com/MarioAvolio
+- CV (PDF): `Mario_Avolio_CV.pdf` (o file equivalente presente nel repository)
+- Template utilizzato: Awesome-CV (LaTeX) — vedi https://github.com/posquit0/Awesome-CV
 
-## 🔗 Connect With Me
+Descrizione
 
-- **Portfolio / Website**: [marioavolio.netlify.app](https://marioavolio.netlify.app/)
-- **GitHub**: [@MarioAvolio](https://github.com/MarioAvolio)
+Questo repository contiene il mio curriculum vitae professionale, inclusi i sorgenti LaTeX e il PDF compilato. Troverai informazioni sulla mia esperienza, competenze e contatti.
 
-## 🛠️ About This Template
+Licenza
 
-This CV is built using [Awesome CV](https://github.com/posquit0/Awesome-CV), a LaTeX template designed for creating professional and outstanding CVs and resumes.
+Il contenuto dei sorgenti LaTeX è rilasciato sotto la LaTeX Project Public License v1.3c (LPPL). Vedi il file LICENSE o la documentazione del template per i dettagli.
 
-## 📝 License
-
-Licensed under the LaTeX Project Public License v1.3c (LPPL). See the [LICENCE](./LICENCE) file for details.
-
----
-
-**Last Updated**: June 13, 2026
+Ultimo aggiornamento: 13 giugno 2026
