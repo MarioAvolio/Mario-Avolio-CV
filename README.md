@@ -16,6 +16,3 @@ Built with [Awesome-CV](https://github.com/posquit0/Awesome-CV) — a LaTeX temp
 ## License
 LaTeX source files are released under the LPPL v1.3c.
 
----
-
-**Last updated**: June 13, 2026
